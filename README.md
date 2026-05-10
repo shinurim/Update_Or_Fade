@@ -1,12 +1,12 @@
-<h2>🎬DB Bridge</h2>
-자연어 질의를 통한 고품질의 패널 추출
+<h2>🎬Update_Or_Fade</h2>
+Steam 게임 리뷰 유용성 예측 및 서비스화
 
-▶️ [GitHub에서 시연 영상 바로 재생하기](https://github.com/shinurim/SW_BE/issues/1#issue-3734958059)
+▶️ [GitHub에서 시연 영상 바로 재생하기]()
 <hr>
 
 <h2>Preview</h2>
 <p align="center">
-  <img src="./assets/판넬.png" width="900" />
+  <img src="" width="900" />
 </p>
 <hr>
 
@@ -42,7 +42,7 @@
            width="140" height="140"
            style="border:2px solid #ddd;border-radius:12px;object-fit:cover;" />
       <div style="margin-top:8px;font-weight:600;">
-        <a href="">노진수</a>
+        <a href="https://github.com/HOSTing1108">노진수</a>
       </div>
     </td>
     <td align="center">
@@ -50,7 +50,7 @@
            width="140" height="140"
            style="border:2px solid #ddd;border-radius:12px;object-fit:cover;" />
       <div style="margin-top:8px;font-weight:600;">
-        <a href="">윤상현</a>
+        <a href="https://github.com/Realysh">윤상현</a>
       </div>
     </td>
   </tr>
