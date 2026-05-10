@@ -38,7 +38,7 @@ Steam 게임 리뷰 유용성 예측 및 서비스화
       </div>
     </td>
     <td align="center">
-      <img src="./members/njs.png"
+      <img src="./members/HOSTing1108.png"
            width="140" height="140"
            style="border:2px solid #ddd;border-radius:12px;object-fit:cover;" />
       <div style="margin-top:8px;font-weight:600;">
