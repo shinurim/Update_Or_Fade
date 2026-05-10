@@ -42,7 +42,7 @@
            width="140" height="140"
            style="border:2px solid #ddd;border-radius:12px;object-fit:cover;" />
       <div style="margin-top:8px;font-weight:600;">
-        <a href=""노진수</a>
+        <a href="">노진수</a>
       </div>
     </td>
     <td align="center">
