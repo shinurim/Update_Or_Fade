@@ -1,9 +1,3 @@
-<h2>🎬Update_Or_Fade</h2>
-Steam 게임 리뷰 유용성 예측 및 서비스화
-
-▶️ [GitHub에서 시연 영상 바로 재생하기]()
-<hr>
-
 <h2>Preview</h2>
 <p align="center">
   <img src="" width="900" />
